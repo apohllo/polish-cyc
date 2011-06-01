@@ -1,0 +1,1 @@
+../ssjp2/work/PolishLexicon.txt
