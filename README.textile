@@ -4,30 +4,19 @@ h1. Polish Cyc
 
 h2. Description
 
-This projects is used to share some of the results of my scientific research on providing
-Polish lexicon for the "Cyc ontology":http://opencyc.org. 
-Most of the results were manually reviewed, so they should be of rather high
-accuracy.
+This projects is used to share some of the results of my scientific research on providing Polish lexicon for the "Cyc ontology":http://opencyc.org.  Most of the results were manually reviewed, so they should be of rather high accuracy.
 
 h2. Files
 
-* PolishLexicon.txt -- includes the mappings between about 2000 Cyc terms
-  and their Polish text representations
-* Infobox.txt -- includes the mappings between Polish Wikipedia infoboxes
-  and the corresponding Cyc terms. These mappings will be used to assign
-  "DBpedia":http://dbpedia.org ontology classes to the infoboxes, but
-  since DBpedia ontology is much smaller than Cyc, those mappings will be less
-  accurate.
+* PolishLexicon.txt -- includes the mappings between about 2000 Cyc terms and their Polish text representations
+* Infobox.txt -- includes the mappings between Polish Wikipedia infoboxes and the corresponding Cyc terms. These mappings will be used to assign "DBpedia":http://dbpedia.org ontology classes to the infoboxes, but since DBpedia ontology is much smaller than Cyc, those mappings will be less accurate.
 
 h2. Development/errors
 
-If you wish to provide additional mappings, fork the project and send a 
-pull request. No topic branches needed.
+If you wish to provide additional mappings, fork the project and send a pull request. No topic branches needed.
 
-If you see any errors in the files, but don't want to fork the project, 
-please report them on the Github issue tracker.
+If you see any errors in the files, but don't want to fork the project, please report them on the Github issue tracker.
 
 h2. Licenses
 
-See the individual fiels for license information. Each is distributed under 
-some version o Creative Commons license.
+See the individual fiels for license information. Each is distributed under some version o Creative Commons license.
