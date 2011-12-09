@@ -1,0 +1,23 @@
+h1. Polish Cyc
+
+"github.com/apohllo/polish-cyc":http://github.com/apohllo/polish-cyc
+
+h2. Description
+
+This projects is used to share some of the results of my scientific research on providing
+Polish lexicon for the "Cyc ontology":http://opencyc.org 
+
+h2. Files
+
+* PolishLexicon.txt -- includes the mappings between about 2000 Cyc terms
+  and their Polish text representations
+* Infobox.txt -- includes the mappings between Polish Wikipedia infoboxes
+  and the corresponding Cyc terms. These mappings will be used to assign
+  "DBpedia":http://dbpedia.org ontology classes to the infoboxes, but
+  since DBpedia ontology is much smaller than Cyc, those mappings will be less
+  accurate.
+
+h2. Licenses
+
+See the individual fiels for license information. Each is distributed under 
+some version o Creative Commons license.
