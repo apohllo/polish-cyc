@@ -18,6 +18,8 @@ h2. Files
   "DBpedia":http://dbpedia.org ontology classes to the infoboxes, but
   since DBpedia ontology is much smaller than Cyc, those mappings will be less
   accurate.
+* Infobox_ignored.txt -- the infoboxes that were ignored in the mapping
+  (they don't indicate the semantic class of the article).
 
 h2. Development/errors
 
