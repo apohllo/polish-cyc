@@ -4,22 +4,26 @@ h1. Polish Cyc
 
 h2. Description
 
-This projects is used to share some of the results of my scientific research on providing
+This projects is used to share some of the results of our scientific research on providing
 Polish lexicon for the "Cyc ontology":http://opencyc.org. 
-Most of the results were manually reviewed, so they should be of rather high
-accuracy.
+Most of the results were manually reviewed, so they should be of high accuracy.
 
 h2. Files
 
-* PolishLexicon.txt -- includes the mappings between about 2000 Cyc terms
+* PolishLexicon.txt -- includes the mappings between  13 thousands Cyc terms
   and their Polish text representations
+
+* PolishLexicon_multiple.txt -- includes the mappings between 15 thousands of 
+  Polish expressions and Cyc terms 
+
 * Infobox.txt -- includes the mappings between Polish Wikipedia infoboxes
   and the corresponding Cyc terms. These mappings will be used to assign
   "DBpedia":http://dbpedia.org ontology classes to the infoboxes, but
   since DBpedia ontology is much smaller than Cyc, those mappings will be less
   accurate.
+
 * Infobox_ignored.txt -- the infoboxes that were ignored in the mapping
-  (they don't indicate the semantic class of the article).
+  (they don't indicate the semantic class of an article).
 
 h2. Development/errors
 
